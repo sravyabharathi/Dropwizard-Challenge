@@ -1,0 +1,1 @@
+ALTER TABLE ip_geolocation RENAME COLUMN timestamp to api_timestamp;

@@ -1,0 +1,10 @@
+server:
+  applicationConnectors:
+    - type: http
+      port: 8080
+
+database:
+  driverClass: org.sqlite.JDBC
+  url: jdbc:sqlite:ipgeolocation.db
+  user: ""
+  password: ""

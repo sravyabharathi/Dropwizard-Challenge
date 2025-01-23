@@ -1,0 +1,5 @@
+com/geolocations/IpGeolocationDao.class
+com/geolocations/IpGeolocation.class
+com/geolocations/IpGeolocationConfiguration.class
+com/geolocations/IpGeolocationApplication.class
+com/geolocations/IpGeolocationResource.class
