@@ -50,3 +50,4 @@ vendor/
 # Ignore text and XML files if not necessary
 *.txt
 *.xml
+target/
