@@ -1,7 +1,5 @@
 package com.geolocations;
 
-import java.nio.file.Paths;
-
 import org.jdbi.v3.core.Jdbi;
 
 import io.dropwizard.configuration.ResourceConfigurationSourceProvider;
@@ -9,7 +7,6 @@ import io.dropwizard.core.Application;
 import io.dropwizard.core.setup.Bootstrap;
 import io.dropwizard.core.setup.Environment;
 import io.dropwizard.jdbi3.JdbiFactory;
-import java.nio.file.Files;
 
 public class IpGeolocationApplication extends Application<IpGeolocationConfiguration> {
     // Entry point of the application. It creates an instance of
