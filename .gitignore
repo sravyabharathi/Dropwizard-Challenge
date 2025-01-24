@@ -1,0 +1,52 @@
+# Ignore build directories
+target/
+build/
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.iml
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.class
+*.o
+*.so
+*.dll
+*.exe
+
+# Ignore JAR files
+*.jar
+
+# Ignore database files
+*.db
+
+# Ignore manifest files
+*.MF
+
+# Ignore node_modules for Node.js projects
+node_modules/
+
+# Ignore dependency directories
+vendor/
+
+# Ignore environment variable files
+.env
+
+# Ignore other unnecessary files
+*.swp
+*.bak
+*.tmp
+
+# Ignore properties files if not necessary
+*.properties
+
+# Ignore text and XML files if not necessary
+*.txt
+*.xml
